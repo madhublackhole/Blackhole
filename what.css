@@ -195,27 +195,7 @@ header .shadow{
     height: 0.5rem;
     border-radius: 0.5rem;
 }
-.wt-bar{
-    width: 94%;
-}
-.java-bar{
-    width: 90%;
-}
-.sql-bar{
-    width: 95%;
-}
-.git-bar{
-    width: 99%;
-}
-.vs-bar{
-    width: 99%;
-}
-.os-bar{
-    width: 70%;
-}
-.nt-bar{
-    width: 80%;
-}
+
 
 
 .Education .box-container{
